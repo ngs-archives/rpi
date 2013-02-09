@@ -1,4 +1,6 @@
-# Object files
+7seg/7seg
+
+#Object files
 *.o
 
 # Libraries
